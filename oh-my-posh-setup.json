@@ -28,8 +28,8 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "#2d4459",
-          "foreground": "#9498a1",
+          "background": "#2C2C2C",
+          "foreground": "#ffffff",
           "properties": {
             "display_host": false
           },
@@ -39,8 +39,8 @@
           "type": "session"
         },
         {
-          "background": "#122537",
-          "foreground": "#9498a1",
+          "background": "#23708A",
+          "foreground": "#ffffff",
           "powerline_symbol": "\ue0b0",
           "properties": {
             "folder_icon": "\uf115",
@@ -53,8 +53,8 @@
           "type": "path"
         },
         {
-          "background": "#74563b",
-          "foreground": "#9498a1",
+          "background": "#A04C59",
+          "foreground": "#ffffff",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
           "template": " {{ .HEAD }} ",
