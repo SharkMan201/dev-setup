@@ -1,0 +1,3 @@
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/SharkMan201/dev-setup/refs/heads/main/oh-my-posh-setup.json' | Invoke-Expression
+Set-PSReadLineKeyHandler -Chord "Tab" -Function AcceptSuggestion
+Set-PSReadLineKeyHandler -Chord "RightArrow" -Function ForwardWord
